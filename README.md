@@ -1,4 +1,4 @@
-Cucumber Boilerplate [![Build Status](https://travis-ci.org/webdriverio/cucumber-boilerplate.svg?branch=master)](https://travis-ci.org/webdriverio/cucumber-boilerplate)
+Cucumber Boilerplate [![Build Status](https://travis-ci.org/lazytesting/cucumber-boilerplate.svg?branch=master)](https://travis-ci.org/lazytesting/cucumber-boilerplate)
 ====================
 
 Boilerplate project to run WebdriverIO tests with Cucumber. It is based on a framework called

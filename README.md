@@ -63,7 +63,8 @@ query after doing a search. As you can see, it is pretty simple and understandab
 
 
 ```sh
-$ npm run-script server
+$ npm run-script start-selenium   # Run in it's own terminal window, and keep it running
+$ npm run-script start-server     # Run in it's own terminal window, and keep it running
 ```
 
 To run your tests just call the run.js file:

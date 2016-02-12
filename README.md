@@ -1,6 +1,10 @@
 Cucumber Boilerplate [![Build Status](https://travis-ci.org/lazytesting/cucumber-boilerplate.svg?branch=master)](https://travis-ci.org/lazytesting/cucumber-boilerplate)
 ====================
 
+Warning: 
+I'm using this project as quick start in my workshops. It allows you to get comfortable with gherkin and webdriver.
+When you're looking for something you can use in production this boilerplate might not be the best choise. 
+
 Boilerplate project to run WebdriverIO tests with Cucumber. It is based on a framework called
 [yadda](https://github.com/acuminous/yadda) and brings **true** [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)
 to JavaScript and WebdriverIO. Instead of writing complicated test code that only devs can understand,
